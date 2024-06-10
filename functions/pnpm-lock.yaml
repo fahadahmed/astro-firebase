@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  express:
+    specifier: ^4.19.2
+    version: 4.19.2
   firebase-admin:
     specifier: ^12.1.0
     version: 12.1.1
